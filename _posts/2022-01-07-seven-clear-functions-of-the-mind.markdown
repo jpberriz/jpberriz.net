@@ -1,7 +1,7 @@
 ---
 title: Seven clear functions of the mind
 date: 2022-01-07 15:35:00 Z
-permalink: Seven clear functions of the mind
+permalink: Seven-clear-functions-of-the-mind
 categories:
 - Life
 tags:
