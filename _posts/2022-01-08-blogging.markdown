@@ -1,6 +1,11 @@
 ---
 title: Blogging
 date: 2022-01-08 21:26:00 Z
+categories:
+- Life
+tags:
+- Writing
+- Art
 ---
 
 > Blogging is an essential tool toward meditating over an extended period of time on a subject you consider to be important.
