@@ -6,6 +6,7 @@ categories:
 - Life
 tags:
 - stoicism
+layout: post
 ---
 
 Stoic lesson of the day.
