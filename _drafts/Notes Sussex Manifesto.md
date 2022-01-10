@@ -1,6 +1,6 @@
 ---
 title: accumulation of technological capabilities in nonprofits
-date: 2022-01-10 17:30:47.474000000 Z
+date: 2022-01-10 17:30:47 Z
 permalink: nonprofit-capacity
 categories:
 - Nonprofit strategic planning

@@ -1,6 +1,6 @@
 ---
 title: Notes voices annual meeting
-date: 2022-01-10 17:30:47.504000000 Z
+date: 2022-01-10 17:30:47 Z
 ---
 
 ## Annual Board Meeting at VOICES for children.

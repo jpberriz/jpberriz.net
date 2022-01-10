@@ -7,6 +7,7 @@ categories:
 tags:
 - Writing
 - Art
+layout: post
 ---
 
 > Blogging is an essential tool toward meditating over an extended period of time on a subject you consider to be important.

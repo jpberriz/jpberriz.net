@@ -1,6 +1,6 @@
 ---
 title: nonprofit capacity
-date: 2022-01-10 17:30:47.442000000 Z
+date: 2022-01-10 17:30:47 Z
 permalink: nonprofit-capacity
 categories:
 - Nonprofit strategic planning

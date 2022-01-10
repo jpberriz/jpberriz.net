@@ -1,6 +1,6 @@
 ---
 title: Welcome
-date: 2022-01-10 17:30:47.718000000 Z
+date: 2022-01-10 17:30:47 Z
 ---
 
 # Welcome Page

@@ -1,6 +1,6 @@
 ---
 title: Origin
-date: 2022-01-10 17:30:47.534000000 Z
+date: 2022-01-10 17:30:47 Z
 ---
 
 # Origin Story

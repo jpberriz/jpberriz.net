@@ -1,6 +1,6 @@
 ---
 title: Coming soon
-date: 2022-01-10 17:30:47.244000000 Z
+date: 2022-01-10 17:30:47 Z
 ---
 
 ## Current status (for website)

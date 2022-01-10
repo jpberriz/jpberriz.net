@@ -1,6 +1,6 @@
 ---
 title: Example content
-date: 2022-01-10 17:30:47.812000000 Z
+date: 2022-01-10 17:30:47 Z
 layout: post
 ---
 

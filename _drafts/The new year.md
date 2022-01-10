@@ -1,6 +1,6 @@
 ---
 title: The new year
-date: 2022-01-10 17:30:47.656000000 Z
+date: 2022-01-10 17:30:47 Z
 ---
 
 The new years is widely celebrated. It's celebration is a world-wide social ritual. 

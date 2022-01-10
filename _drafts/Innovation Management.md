@@ -1,6 +1,6 @@
 ---
 title: Innovation management
-date: 2022-01-10 17:30:47.309000000 Z
+date: 2022-01-10 17:30:47 Z
 ---
 
 Trainer, *Barnes & Conti*, Berkeley, CA *—* May 2011 to present

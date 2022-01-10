@@ -1,6 +1,6 @@
 ---
 title: Title of the post
-date: 2022-01-10 17:30:47.781000000 Z
+date: 2022-01-10 17:30:47 Z
 permalink: permalink-of-the-post
 categories:
 - Life Aikido Nonprofit Management

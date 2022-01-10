@@ -1,6 +1,6 @@
 ---
 title: Venezuela vs usa painpoint
-date: 2022-01-10 17:30:47.687000000 Z
+date: 2022-01-10 17:30:47 Z
 ---
 
 I was greatly influenced by the time I lived in the United States and in Venezuela as a child, and the contrast of both places.

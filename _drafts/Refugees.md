@@ -1,6 +1,6 @@
 ---
 title: Refugees
-date: 2022-01-10 17:30:47.596000000 Z
+date: 2022-01-10 17:30:47 Z
 ---
 
 Volunteer, *UNHCR*, Campeche, México *—*September 7 to October 26, 1997

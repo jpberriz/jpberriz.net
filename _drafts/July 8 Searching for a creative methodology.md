@@ -1,6 +1,6 @@
 ---
 title: Searching for a creative methodology
-date: 2022-01-10 17:30:47.340000000 Z
+date: 2022-01-10 17:30:47 Z
 permalink: searching-for-a-creative-methodology
 categories:
 - Life

@@ -1,9 +1,7 @@
 ---
 title: Experience
-date: 2022-01-10 17:30:47.277000000 Z
+date: 2022-01-10 17:30:47 Z
 ---
-
-
 
 I worked for nearly three years as a consultant for the World Bank. I was part of a team that prepared, followed the implementation and evaluated Legal and Judicial Reform Projects in Colombia, Peru, Ecuador and Venezuela. My time at the WB was an extraordinary professional learning experience. It taught me how international organizations come about doing their job in the areas I am interested, as Access to Justice. And I also acquired an efficient working method, which I still apply today as a consultant. By the way, the map you see as featured picture of this post is called a Peter’s Projection Map and it’s an ‘area accurate map’. You can learn more about it here
 

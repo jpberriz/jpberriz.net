@@ -1,6 +1,6 @@
 ---
 title: Nonprofit capacity building
-date: 2022-01-10 17:30:47.406000000 Z
+date: 2022-01-10 17:30:47 Z
 ---
 
 CEO, *Blue Ridge* *CASA for Children*, Staunton, VA, January 2015 - Present
