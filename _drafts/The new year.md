@@ -1,3 +1,8 @@
+---
+title: The new year
+date: 2022-01-10 17:30:47.656000000 Z
+---
+
 The new years is widely celebrated. It's celebration is a world-wide social ritual. 
 
 It symbolizes the beginning of something new. We undertake celebratory rituals where we commit to changing into something better, whatever that is for us. We say goodby to the previous year, and we put it in the past. We declare the new year - "this year" - as our present.  

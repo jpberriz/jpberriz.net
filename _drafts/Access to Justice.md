@@ -1,3 +1,8 @@
+---
+title: Access to justice
+date: 2022-01-10 17:30:47.216000000 Z
+---
+
 Consultant, *Supreme Tribunal of Justice*, Venezuela - September and October 2012
 
 Conducted research and prepared a report on best institutional practices of Access to Justice in the public sector in Latin America. Desk Review.

@@ -1,9 +1,14 @@
 ---
-layout: post
 title: Principle of Empathy
+date: 2022-01-10 17:30:47.751000000 Z
 permalink: permalink-of-the-post
-category: Life Aikido Nonprofit Management
-tags: Purpose, Summaries, Books
+categories:
+- Life Aikido Nonprofit Management
+tags:
+- Purpose,
+- Summaries,
+- Books
+layout: post
 ---
 
 This [SSIR article on Participatory Granmaking](https://ssir.org/articles/entry/participatory_grantmaking_is_your_future){:target="_blank"} opens in a new tab 

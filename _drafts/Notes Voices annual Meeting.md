@@ -1,3 +1,8 @@
+---
+title: Notes voices annual meeting
+date: 2022-01-10 17:30:47.504000000 Z
+---
+
 ## Annual Board Meeting at VOICES for children.
 
 Connection to J.P.Berriz

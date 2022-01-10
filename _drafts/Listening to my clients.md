@@ -1,3 +1,8 @@
+---
+title: Listening to my clients
+date: 2022-01-10 17:30:47.371000000 Z
+---
+
 # Listening to my clients
 
 Innovation phase: exploring.

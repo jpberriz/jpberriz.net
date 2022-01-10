@@ -1,3 +1,8 @@
+---
+title: Welcome
+date: 2022-01-10 17:30:47.718000000 Z
+---
+
 # Welcome Page
 
 ## Welcome to the NonProfit.MBA

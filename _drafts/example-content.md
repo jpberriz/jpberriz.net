@@ -1,8 +1,8 @@
 ---
-layout: post
 title: Example content
+date: 2022-01-10 17:30:47.812000000 Z
+layout: post
 ---
-
 
 <p class="message">
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.

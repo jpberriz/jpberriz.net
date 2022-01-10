@@ -1,9 +1,14 @@
 ---
-layout: post
 title: nonprofit capacity
+date: 2022-01-10 17:30:47.442000000 Z
 permalink: nonprofit-capacity
-category: Nonprofit strategic planning
-tags: Purpose, Summaries, Books
+categories:
+- Nonprofit strategic planning
+tags:
+- Purpose,
+- Summaries,
+- Books
+layout: post
 ---
 
 nonprofit capacity - what is it exactly

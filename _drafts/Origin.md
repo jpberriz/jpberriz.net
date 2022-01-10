@@ -1,3 +1,8 @@
+---
+title: Origin
+date: 2022-01-10 17:30:47.534000000 Z
+---
+
 # Origin Story
 
 ## As new Executive Director, I needed a comprehensive understanding of my organization so that I could manage all its moving parts as a system. 

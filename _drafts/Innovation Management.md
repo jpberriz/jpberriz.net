@@ -1,3 +1,8 @@
+---
+title: Innovation management
+date: 2022-01-10 17:30:47.309000000 Z
+---
+
 Trainer, *Barnes & Conti*, Berkeley, CA *—* May 2011 to present
 
 Certified trainer of Managing Innovation, a program that teaches innovation management skills through structured activities, cases, and skill practice that encompass the results of research on exceptionally innovative organizations. Co-trained a team of managers and R&D staff at New Balance in Lawrence, MA.

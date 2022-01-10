@@ -1,3 +1,8 @@
+---
+title: Refugees
+date: 2022-01-10 17:30:47.596000000 Z
+---
+
 Volunteer, *UNHCR*, Campeche, México *—*September 7 to October 26, 1997
 
 Selected by UNCHR to participate in “Camp Sadako”. Lived in an UNHCR refugee camp of indigenous Guatemalans in Campeche, Mexico for 7 weeks. Designed and implemented a short legal education program consisting of several training sessions and an easy-to-read guide on relevant laws as a solution to the need for legal knowledge of Mexican criminal and constitutional law within the community. Advised senior community leaders on the legality of detaining a suspect of witchcraft.  Taught basic mathematics to a women's cooperative, as well as to first and second grade elementary school classes.

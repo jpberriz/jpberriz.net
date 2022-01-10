@@ -1,3 +1,8 @@
+---
+title: Academic credentials
+date: 2022-01-10 17:30:47.185000000 Z
+---
+
 This is my [LinkedIn Profile](https://www.linkedin.com/in/jpberrizbeitia/) 
 
 #### Undergraduate Studies

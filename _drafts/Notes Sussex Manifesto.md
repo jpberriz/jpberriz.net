@@ -1,9 +1,14 @@
 ---
-layout: post
-title: accumulation of technological capabilities in nonprofits 
+title: accumulation of technological capabilities in nonprofits
+date: 2022-01-10 17:30:47.474000000 Z
 permalink: nonprofit-capacity
-category: Nonprofit strategic planning
-tags: Purpose, Summaries, Books
+categories:
+- Nonprofit strategic planning
+tags:
+- Purpose,
+- Summaries,
+- Books
+layout: post
 ---
 
 ### Using technology, knowledge, and innovation management to build a nonprofit capacity assessment tool

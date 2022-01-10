@@ -1,3 +1,8 @@
+---
+title: Venezuela vs usa painpoint
+date: 2022-01-10 17:30:47.687000000 Z
+---
+
 I was greatly influenced by the time I lived in the United States and in Venezuela as a child, and the contrast of both places.
 
 I was born in Caracas, Venezuela. When I was around one year old, my mother separated from my father and brought to Miami, Florida, where we lived until I was eight years old.  During that time, I spoke a little bit of Spanish at home, but my strong language was English. 
