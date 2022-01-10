@@ -1,0 +1,18 @@
+---
+title: Blogging
+date: 2022-01-08 21:26:00 Z
+permalink: Blogging
+categories:
+- Life
+tags:
+- Writing
+- Art
+---
+
+> Blogging is an essential tool toward meditating over an extended period of time on a subject you consider to be important.
+-- Marc Weidenbaum
+
+> I didn’t start a blog because I had something to say, I started a blog to find something to say.
+-- Austin Kleon
+
+https://austinkleon.com/2020/09/09/15-years-of-blogging-and-3-reasons-to-keep-going/
