@@ -3,7 +3,7 @@ title: Input Output
 date: 2022-01-10 17:30:47 Z
 permalink: input-output
 categories:
-- Life 
+- Life
 tags:
 - training
 layout: post
