@@ -1,5 +1,5 @@
 ---
-title: Dealing with abundance and excess
+title: Details of a new process
 permalink: dealing-with-abundance-and-excess
 categories:
 - Life
@@ -8,13 +8,12 @@ tags:
 - Excess
 layout: post
 ---
-Which direction should I take?
-From small work to bigger?
-Or leaving traces of my 
+In today's developed modern world - speaking from the United States, really - the abundance that most people have access to is a blessing.
 
-Some writers suggest building bigger work from frequent small works, like Austien Kleon:
+And it can also be a problem for personal growth. 
 
-> In *Show Your Work*!, I wrote that it was always my M.O. **to turn flow into stock**: tweets become blog posts that become book chapters that become books.
->   - Austin Kleon
+There is abundance to the point of excess of: 
 
-Others, like Tim Grahl, suggest that while working on your bigger piece, you leave traces of it in smaller pieces.
+- Food  
+- Distraction 
+- Education 
