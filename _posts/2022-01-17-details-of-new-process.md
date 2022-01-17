@@ -1,5 +1,6 @@
 ---
 title: Details of new process
+date: 2022-01-17 00:00:00 Z
 permalink: details-of-new-process
 categories:
 - Creative process
@@ -8,6 +9,7 @@ tags:
 - Process
 layout: post
 ---
+
 Which direction should I take?
 From small work to bigger?
 Or leaving traces of my 
