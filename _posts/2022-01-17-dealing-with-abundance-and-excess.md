@@ -1,11 +1,11 @@
 ---
-title: Details of new process
-permalink: details-of-new-process
+title: Dealing with abundance and excess
+permalink: dealing-with-abundance-and-excess
 categories:
-- Creative process
+- Life
 tags:
-- Creativity
-- Process
+- Abundance
+- Excess
 layout: post
 ---
 Which direction should I take?
