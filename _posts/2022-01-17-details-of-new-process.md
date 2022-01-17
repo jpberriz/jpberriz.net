@@ -1,11 +1,11 @@
 ---
-title: Dealing with abundance and excess
-permalink: dealing-with-abundance-and-excess
+title: Details of new process
+permalink: details-of-new-process
 categories:
-- Life
+- Creative process
 tags:
-- Abundance
-- Excess
+- Creativity
+- Process
 layout: post
 ---
 In today's developed modern world - speaking from the United States, really - the abundance that most people have access to is a blessing.
