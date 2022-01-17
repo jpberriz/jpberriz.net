@@ -1,5 +1,6 @@
 ---
 title: Dealing with abundance and excess
+date: 2022-01-17 00:00:00 Z
 permalink: dealing-with-abundance-and-excess
 categories:
 - Life
@@ -8,6 +9,7 @@ tags:
 - Excess
 layout: post
 ---
+
 Which direction should I take?
 From small work to bigger?
 Or leaving traces of my 
