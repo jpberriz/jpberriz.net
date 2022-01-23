@@ -10,11 +10,11 @@ tags:
 layout: post
 ---
 
-Which direction should I take?
-From small work to bigger?
-Or leaving traces of my 
+### Which direction should I take?
+Generate small work, ideas, posts, in order to find bigger ideas, and essays?
+Or work on my book, and share small traces and posts that derive from it? 
 
-Some writers suggest building bigger work from frequent small works, like Austien Kleon:
+Austien Kleon suggests to work from small to big: 
 
 > In *Show Your Work*!, I wrote that it was always my M.O. **to turn flow into stock**: tweets become blog posts that become book chapters that become books.
 >   - Austin Kleon
