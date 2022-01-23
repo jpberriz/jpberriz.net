@@ -1,5 +1,6 @@
 ---
 title: When leading share my strategy
+date: 2022-01-23 00:00:00 Z
 permalink: malcolm-gladwell-masterclass-notes
 categories:
 - Writing
