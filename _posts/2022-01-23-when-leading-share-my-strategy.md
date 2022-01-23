@@ -1,5 +1,6 @@
 ---
 title: When leading share my strategy
+date: 2022-01-23 00:00:00 Z
 permalink: when-leading-share-my-strategy
 categories:
 - Nonprofit Management
