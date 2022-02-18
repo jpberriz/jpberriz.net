@@ -1,6 +1,6 @@
 ---
 title: Notes from Seth Godin's This is Marketing
-date: 2022-02-18
+date: 2022-02-18 00:00:00 Z
 permalink: this-is-marketing-seth-godin-notes
 categories:
 - Marketing
