@@ -3,9 +3,10 @@ title: DEI resources
 date: 2021-09-16 00:00:00 Z
 permalink: dei-resources
 categories:
-- Nonprofit Management
-tags:
+- Leadership
+tags: 
 - Resources
+- DEI
 layout: post
 ---
 
