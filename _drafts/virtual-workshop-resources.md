@@ -1,5 +1,6 @@
 ---
 title: Resources for virtual workshops
+date: 2022-01-29 00:00:00 Z
 permalink: virtual-workshop-resources
 categories:
 - Resources
