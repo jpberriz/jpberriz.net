@@ -4,7 +4,7 @@ date: 2021-09-16 00:00:00 Z
 permalink: dei-resources
 categories:
 - Leadership
-tags: 
+tags:
 - Resources
 - DEI
 layout: post
