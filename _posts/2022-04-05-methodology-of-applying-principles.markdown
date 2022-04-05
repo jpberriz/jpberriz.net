@@ -1,6 +1,7 @@
 ---
 title: Methodology of Applying Principles
 date: 2022-04-05 19:36:00 Z
+permalink: methodology-applying-principles
 categories:
 - Nonprofit Management
 tags:
