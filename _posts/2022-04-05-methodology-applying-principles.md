@@ -6,6 +6,7 @@ categories:
 - Nonprofit Management
 tags:
 - Methodology
+layout: post
 ---
 
 This morning I went on a walk. During the walk, I was thinking about a book I read over the weekend about value creation and marketing. The book conveyed a principle, which I thought was right and would benefit my work (principle below)* I asked myself, how can I implement it in my work as a consultant? I thought of some action items, and I started putting some of them on my calendar while I walked. I also sent an email (voice dictation) to a client based on the book’s principle.
