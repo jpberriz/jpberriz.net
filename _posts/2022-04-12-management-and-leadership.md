@@ -1,0 +1,20 @@
+---
+title: Management and Leadership
+date: 2022-04-12 
+permalink: management-and-leadership
+categories:
+- Nonprofit Management
+tags:
+- Leadership
+layout: post
+
+---
+
+**Management** is choosing what action to take in order for your team to achieve results. 
+
+**Leadership** is choosing the attitude with which you approach your team. 
+
+
+
+**Management** is about choice of action and **leadership** is about choice of approach.
+
