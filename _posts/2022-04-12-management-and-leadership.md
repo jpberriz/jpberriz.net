@@ -1,13 +1,12 @@
 ---
 title: Management and Leadership
-date: 2022-04-12 
+date: 2022-04-12 00:00:00 Z
 permalink: management-and-leadership
 categories:
 - Nonprofit Management
 tags:
 - Leadership
 layout: post
-
 ---
 
 **Management** is choosing what action to take in order for your team to achieve results. 
