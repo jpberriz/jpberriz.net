@@ -1,5 +1,6 @@
 ---
 title: Research on maturity model
+date: 2022-04-19 00:00:00 Z
 permalink: maturity-model-research
 categories:
 - Nonprofit Management
