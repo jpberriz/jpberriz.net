@@ -1,5 +1,6 @@
 ---
 title: Research on systematization
+date: 2022-04-20 00:00:00 Z
 permalink: systematization-research
 categories:
 - Nonprofit Management
@@ -10,8 +11,6 @@ tags:
 - Systems
 layout: post
 ---
-
-
 
 These are a couple of lists of simple steps to systematize your organization (my favorite is the first one): 
 
