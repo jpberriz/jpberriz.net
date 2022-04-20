@@ -11,8 +11,6 @@ tags:
 layout: post
 ---
 
-## Research on maturity models
-
 [Wikipidia](https://en.wikipedia.org/wiki/Capability_Maturity_Model) says that "the term maturity relates to the degree of formality and optimization of processes, from ad hoc practices, to formally defined steps, to managed result metrics, to active optimization of the processes."
 
 [Martin Fowler](https://martinfowler.com/bliki/MaturityModel.html)  says that "a maturity model is a tool that helps people assess the current effectiveness of a person or group and supports figuring out what capabilities they need to acquire next in order to improve their performance" and that "the true outcome of a maturity model assessment isn't what level you are but the list of things you need to work on to improve".
