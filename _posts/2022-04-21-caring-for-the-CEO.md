@@ -1,10 +1,10 @@
 ---
 title: Caring for the CEO
+date: 2022-04-21 00:00:00 Z
 permalink: caring-for-the-CEO
 categories:
 - Nonprofit Management
 - Leadership
-tags:
 layout: post
 ---
 
