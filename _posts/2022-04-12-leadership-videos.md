@@ -3,9 +3,9 @@ title: Leadership videos
 date: 2022-04-12 00:00:00 Z
 permalink: leadership-videos
 categories:
-- Nonprofit Management
-tags:
 - Leadership
+tags:
+- Purpose
 layout: post
 ---
 

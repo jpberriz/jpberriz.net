@@ -3,10 +3,9 @@ title: Board Member Leadership
 date: 2022-03-24 11:30:47 Z
 permalink: board-member-leadership
 categories:
-- Nonprofit Management
+- Leadership
 tags:
 - Purpose
-- Leadersip
 layout: post
 ---
 
