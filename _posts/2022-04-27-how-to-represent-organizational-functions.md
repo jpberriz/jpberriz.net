@@ -1,5 +1,6 @@
 ---
 title: How to represent organizational functions
+date: 2022-04-27 00:00:00 Z
 permalink: how-to-represent-organizational-functions
 categories:
 - Nonprofit Management
