@@ -12,8 +12,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 tagline: JPBerriz
-description: Life is Art 
-            These are my notes
+description: Life is Art These are my notes
 url: http://127.0.0.1:4000
 baseurl: 
 author:
