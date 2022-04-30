@@ -12,7 +12,7 @@ layout: post
 
 This is the best article I could find online related to representing organizational functions: 
 
-https://blog.hubspot.com/marketing/team-structure-diagrams
+[https://blog.hubspot.com/marketing/team-structure-diagrams](https://blog.hubspot.com/marketing/team-structure-diagrams)
 
 
 
