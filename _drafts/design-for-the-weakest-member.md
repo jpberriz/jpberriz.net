@@ -1,5 +1,6 @@
 ---
 title: Design for the weakest members of a group
+date: 2022-05-10 00:00:00 Z
 permalink: design-for-the-weakest
 categories:
 - Design
