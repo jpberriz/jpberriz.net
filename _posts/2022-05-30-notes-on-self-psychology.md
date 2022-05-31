@@ -9,7 +9,7 @@ tags:
 layout: post
 ---
 
-####Sources:
+#### Sources:
 
 [Wikipedia entry on Heinz Kohut](https://en.wikipedia.org/wiki/Heinz_Kohut)
 
@@ -21,14 +21,14 @@ layout: post
 
 [A paper by Kohut](http://www.sakkyndig.com/psykologi/artvit/kohut1978.pdf)
 
-####Quotes and notes:
+#### Quotes and notes:
 
 **Treatment - Therapy**
 
 - [In Self-Psychology] treatment depends upon upon a corrective therapeutic experience that allows healthy structure to be belatedly formed in a relationship with an empathic therapist. 
 -  
 
-####Concepts
+#### Concepts
 
 - **The Self**
 
