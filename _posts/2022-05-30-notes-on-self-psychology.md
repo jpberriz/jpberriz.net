@@ -1,5 +1,6 @@
 ---
 title: Notes on Self-psychology
+date: 2022-05-30 00:00:00 Z
 permalink: notes-on-self-psychology
 categories:
 - Life
