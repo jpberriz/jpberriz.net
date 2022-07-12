@@ -1,5 +1,6 @@
 ---
 title: Capacity Building Research & Resources
+date: 2022-07-11 00:00:00 Z
 permalink: capacity-building-research-resources
 categories:
 - Nonprofit Management
