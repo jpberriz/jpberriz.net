@@ -15,16 +15,16 @@ layout: post
 
 [Evaluation of The William and Flora Hewlett Foundation’s Organizational Effectiveness Program](http://www.hewlett.org/wp-content/uploads/2016/10/Evaluation-of-OE-Program-November-2015.pdf)
 
-https://hewlett.org/assessing-nonprofit-capacity-guide-tools/ (21015)
+[https://hewlett.org/assessing-nonprofit-capacity-guide-tools/](https://hewlett.org/assessing-nonprofit-capacity-guide-tools/) (2015)
 
-https://hewlett.org/lessons-and-trends-in-xnonprofit-capacity-strengthening/ (2022) 
+[https://hewlett.org/lessons-and-trends-in-xnonprofit-capacity-strengthening/](https://hewlett.org/lessons-and-trends-in-xnonprofit-capacity-strengthening/) (2022) 
 This study also has the benefit of a good bibliography on the topic of capacity building.  
 
 
 
 ### Grantmakers for Effective Organizations
 
-https://www.geofunders.org/
+[https://www.geofunders.org/](https://www.geofunders.org/)
 
 
 
@@ -56,6 +56,6 @@ https://www.geofunders.org/
 
 [All the modules of their assessment on this page](https://www.leapambassadors.org/practice/all-modules/)
 
-Downloads from page above: [User guide](https://www.leapambassadors.org/wp-content/uploads/2021/02/Performance_Practice_User_Guide_Oct1_2019.pdf) and 
+Downloads from page above: [User guide](https://www.leapambassadors.org/wp-content/uploads/2021/02/Performance_Practice_User_Guide_Oct1_2019.pdf) and [Main Concepts](https://www.leapambassadors.org/wp-content/uploads/2021/02/Performance_Practice_PrinciplesandProofPoints_All_Modules_Nov18_2019.pdf)
 
 [Excel worksheet for all the modules](https://www.leapambassadors.org/wp-content/uploads/2021/02/Performance_Practice_All-Modules_Nov18_2019.xlsx) 
