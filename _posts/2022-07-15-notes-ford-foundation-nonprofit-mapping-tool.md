@@ -1,5 +1,6 @@
 ---
 title: Notes on the Ford's Foundation Organizational Mapping Tool
+date: 2022-07-15 00:00:00 Z
 permalink: notes-ford-foundation-mapping-tool
 categories:
 - Nonprofit Management
@@ -8,8 +9,6 @@ tags:
 - Capacity Building
 layout: post
 ---
-
-
 
 It is centered on the nonprofit, not the foundation paying for the assessment.
 
