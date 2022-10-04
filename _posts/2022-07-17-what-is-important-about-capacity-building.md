@@ -1,5 +1,6 @@
 ---
 title: What's important about Capacity Building
+date: 2022-07-17 00:00:00 Z
 permalink: what-is-important-about-capacity-building
 categories:
 - Nonprofit Management
@@ -8,8 +9,6 @@ tags:
 - Capacity Building
 layout: post
 ---
-
-
 
 The capacity building effort must be owned and directed by the organization, not a funder.
 

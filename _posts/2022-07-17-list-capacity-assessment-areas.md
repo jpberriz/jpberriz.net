@@ -1,5 +1,6 @@
 ---
 title: List of areas addressed by capacity assessments
+date: 2022-07-17 00:00:00 Z
 permalink: list-capacity-assessment-areas
 categories:
 - Nonprofit Management
